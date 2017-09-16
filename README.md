@@ -1,2 +1,3 @@
 # cg2f2017
-Computer Graphics 2 Fall 2017
+Fall 2017 Computer Graphics 2
+Timothy Southwick
