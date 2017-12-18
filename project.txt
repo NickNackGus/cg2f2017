@@ -1,0 +1,5 @@
+The project directory is
+gvr-android-sdk-master
+The program is
+samples-sdk-treasurehunt
+
